@@ -158,4 +158,4 @@ The current configuration achieves **53.6% furnace duty reduction** using a conc
 Department of Chemical Engineering  
 Jashore University of Science and Technology (JUST), Bangladesh  
 AIChE Member ID: 009905932744  
-[LinkedIn](https://linkedin.com/in/shahriar-hossain-suny) · [GitHub](https://github.com/shahriar-hossain-suny)
+[LinkedIn](https://www.linkedin.com/in/shahriarhossainsuny/) · [GitHub](https://github.com/shahria-sunny)
